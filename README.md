@@ -15,3 +15,7 @@ OS README is available [here.](https://github.com/shrif-web/HW01-WebProgramming/
 
 ## NGINX
 Nginx README is available [here.](https://github.com/shrif-web/HW01-WebProgramming/blob/main/Server/nginx/README.md)
+
+## Locust
+locust's loadtest README is available [here.](https://github.com/shrif-web/HW01-WebProgramming/blob/main/Server/test/loadTest/locust/README.md)
+
