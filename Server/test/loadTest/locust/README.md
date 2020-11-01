@@ -11,8 +11,9 @@
 
 ## Run load test for all APIs(both Go and Nodejs)
 - Results with 500 users:
-
+ ![](/Server/test/loadTest/locust/results/APItable.jpg)
 - Graphs with 500 users:
+ ![](/Server/test/loadTest/locust/results/diagrams.jpg)
 
 
 
