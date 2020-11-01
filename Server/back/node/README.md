@@ -3,10 +3,10 @@
 listens at portNumber 3000.
 - Nginx passing nodejs requests configuration:
 
-	location /node/write {
+        location /node/write { 
         proxy_set_header Host $host;
         proxy_set_header X-Real-IP $remote_addr;
-        proxy_pass http://localhost:3000/write; # for me localhost was 172.20.10.13
+        proxy_pass http://localhost:3000/write;  # for me localhost was 172.20.10.13
         }
 
         location /node/sha256 { 
