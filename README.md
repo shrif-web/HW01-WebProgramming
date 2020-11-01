@@ -8,7 +8,7 @@ SimpleWebServer
 Backend README is available [here.](https://github.com/shrif-web/HW01-WebProgramming/blob/main/Server/back/README.md)
 
 ## Front
-Frontend README is available [here.](https://github.com/shrif-web/HW01-WebProgramming/blob/main/Server/front/front.md)
+Frontend README is available [here.](https://github.com/shrif-web/HW01-WebProgramming/blob/main/Server/front/README.md)
 
 ## OS
 OS README is available [here.](https://github.com/shrif-web/HW01-WebProgramming/blob/main/Server/os/README.md)
