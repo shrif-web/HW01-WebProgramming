@@ -9,4 +9,10 @@
 > locust -V
 ```
 
-## Run load test for all APIs(both Go and Node)
+## Run load test for all APIs(both Go and Nodejs)
+- Results with 500 users:
+
+-Graphs with 500 users:
+
+
+
