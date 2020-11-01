@@ -12,7 +12,7 @@
 ## Run load test for all APIs(both Go and Nodejs)
 - Results with 500 users:
 
--Graphs with 500 users:
+- Graphs with 500 users:
 
 
 
