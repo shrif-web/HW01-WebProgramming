@@ -6,14 +6,15 @@ listens at portNumber 8081.
         location /go/write {
         proxy_set_header Host $host;
         proxy_set_header X-Real-IP $remote_addr;
-        proxy_pass http://localhost:8081/write;
+        proxy_pass http://localhost:8081/write; # for me localhost was 172.20.10.13
         }
 
-	location /go/sha256 {
+        location /go/sha256 {
         proxy_set_header Host $host;
         proxy_set_header X-Real-IP $remote_addr;
-        proxy_pass http://localhost:8081/sha;
+        proxy_pass http://localhost:8081/sha; # for me localhost was 172.20.10.13
         }
+
 
 ## API
 Sample API request 
