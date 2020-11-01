@@ -1,4 +1,4 @@
-# Golang Helloworld Server
+# Golang Server
 
 listens at portNumber 8081.
 - Nginx passing go requests configuration:
