@@ -1,6 +1,6 @@
 ## Back
 #### Golang
--README is available [here.](https://github.com/shrif-web/HW01-WebProgramming/blob/main/Server/back/go/README.md)
+-Golang readme is available [here.](https://github.com/shrif-web/HW01-WebProgramming/blob/main/Server/back/go/README.md)
 #### Nodejs
--README is available [here.](https://github.com/shrif-web/HW01-WebProgramming/blob/main/Server/back/nodejs/README.md)
+-Nodejs readme is available [here.](https://github.com/shrif-web/HW01-WebProgramming/blob/main/Server/back/nodejs/README.md)
 
