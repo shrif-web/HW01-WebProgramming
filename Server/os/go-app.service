@@ -1,0 +1,24 @@
+
+[Unit]
+Description=node-app
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=2s
+#Environment=PORT=80
+ExecStart= /home/AHReccese/back/go/main
+
+[Install]
+WantedBy=multi-user.target
+
+
+
+
+
+
+
+
+
+
+
