@@ -24,5 +24,5 @@ Go:
 	curl 'http://localhost/go/sha256' -X POST -H "Content-Type: application/json" --data $'{"Num1":18,"Num2":14}'
 
 	Go write test: 
-	curl 'http://localhost:8081/write?line=3'
+	curl 'http://localhost/go/write?line=3'
 
